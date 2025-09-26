@@ -1,5 +1,9 @@
 # ESP32: Basic Deep Learning Algorithms for GY-31-TCS230
 
+1) Decision trees with CatBoost for color classification
+2) K-Nearest Neighbors (KNN)  for color classification
+3) Linear models by TensorFlow LIte   for color classification
+
 ## BOARDS MANAGER:
 
 esp32 by Espressif Systems: https://github.com/espressif/arduino-esp32
