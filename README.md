@@ -1,14 +1,14 @@
 # ESP32: Basic Deep Learning Algorithms for GY-31-TCS230
 <img width="1506" height="844" alt="ESP_Circuit" src="https://github.com/user-attachments/assets/40f37914-c70f-4203-ae6d-516abdfe9a19" />
 
-##1) Decision trees with CatBoost for color classification
-[![Смотреть видео](https://img.youtube.com/vi/3p5KLZzda98/0.jpg)](https://youtu.be/3p5KLZzda98?si=v0AItjmNtehJ7k4g)
-
-##2) K-Nearest Neighbors (KNN)  for color classification
+## Decision trees with CatBoost for color classification
 [![Смотреть видео](https://img.youtube.com/vi/CmU3OemU6gk/0.jpg)](https://youtu.be/CmU3OemU6gk?si=ZWlYDhaKyWMMC_Ti)
 
-##3) Linear models by TensorFlow LIte   for color classification
+## K-Nearest Neighbors (KNN)  for color classification
 [![Смотреть видео](https://img.youtube.com/vi/0kSWgAhEtCI/0.jpg)](https://youtu.be/0kSWgAhEtCI?si=xwyCRyjDWSX-Ap_7)
+
+## Linear models by TensorFlow LIte   for color classification
+[![Смотреть видео](https://img.youtube.com/vi/DyiEhkdACyw/0.jpg)](https://youtu.be/DyiEhkdACyw?si=nbFca8oEx72p7nwm)
 
 
 
