@@ -7,7 +7,7 @@
 ## K-Nearest Neighbors (KNN)  for color classification
 [![Смотреть видео](https://img.youtube.com/vi/0kSWgAhEtCI/0.jpg)](https://youtu.be/0kSWgAhEtCI?si=xwyCRyjDWSX-Ap_7)
 
-## Linear models by TensorFlow LIte   for color classification
+## Linear models by TensorFlow Lite for color classification
 [![Смотреть видео](https://img.youtube.com/vi/DyiEhkdACyw/0.jpg)](https://youtu.be/DyiEhkdACyw?si=nbFca8oEx72p7nwm)
 
 
